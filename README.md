@@ -85,6 +85,7 @@ _*Your maps*_
 (you can use `R`)
 
 __*Your text and/or figures.*__
+![](PL_barplot.png)
 
 
 # 3. How do your results compare with your predictions? What do you think might explain the patterns you found?
