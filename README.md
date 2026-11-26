@@ -48,6 +48,7 @@ __How much forest cover loss and gain has occurred in your protected area?__
 # Introduction
 
 _*Introduce the reader to your park and research questions that you are testing during this challenge in 200 words or fewer. You can include a few references if you would like.*_
+Pink Lake is an ecological reserve in Saskatchewan, Canada which covers 3664 square kilometres of  boreal forest (Saskatchewan, 2013). It is classified as 1b management category, placing emphasis on natural character retention and maintaining little or no human inhabitation, in order to protect and manage their natural condition (Dudley, 2008). 
 
 
 # Workflow
@@ -104,9 +105,19 @@ _*BONUS! If you have the time, for some bonus recognition, map your chosen datas
 
 # 5. What research question and hypotheses would you test with those additional datasets in your proposed future research and why does that research matter for the park management?
 
+
+
 _*Add your answer here.*_
 
 
 # Conclusions
 
 _*Summarise what you have found in this challenge and its broader implications.*_
+
+# References:
+Sasketchawan, 2013, https://www.saskatchewan.ca/government/news-and-media/2013/july/04/new-ecological-reserve-is-saskatchewans-largest, accessed 26th November 2026.
+
+Dudley, N. (Editor) (2008). Guidelines for Applying Protected Area Management Categories. Gland, Switzerland:
+IUCN. x + 86pp. WITH Stolton, S., P. Shadie and N. Dudley (2013). IUCN WCPA Best Practice Guidance on
+Recognising Protected Areas and Assigning Management Categories and Governance Types, Best Practice Protected
+Area Guidelines Series No. 21, Gland, Switzerland: IUCN. xxpp. 
